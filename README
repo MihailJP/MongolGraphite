@@ -5,6 +5,16 @@ Graphite-enabled Mongolian font
 Licensed under GPL 2.0. See LICENSE file for information.
 Modified by MihailJP
 
-Traditional Mongolian script or Uyghur-Mongol script is used to write the Mongolian language originally, and in current use especially in Inner Mongolia. Although it is included in Unicode, it is still difficult to render correctly. The first difficulty is that the Mongolian script is written vertically, and unlike Chinese or Japanese, the left line comes first. Another difficulty is that Mongolian letters have initial, medial, final and isolate forms. Ligature handling is also required.
+Traditional Mongolian script or Uyghur-Mongol script is used to write the
+Mongolian language originally, and in current use especially in Inner
+Mongolia. Although it is included in Unicode, it is still difficult to render
+correctly. The first difficulty is that the Mongolian script is written
+vertically, and unlike Chinese or Japanese, the left line comes first. Another
+difficulty is that Mongolian letters have initial, medial, final and isolate
+forms. Ligature handling is also required.
 
-This is a Graphite-enabled version of traditional Mongolian fonts originally available from mongolfont.com. The OpenType fonts from mongolfont.com work well on Windows 7, but unfortunately not on Linux. Adding Graphite tables is one solution which gives the capability of intelligent contextual glyph/ligature handling for the various scripts.
+This is a Graphite-enabled version of traditional Mongolian fonts originally
+available from mongolfont.com. The OpenType fonts from mongolfont.com work
+well on Windows 7, but unfortunately not on Linux. Adding Graphite tables is
+one solution which gives the capability of intelligent contextual glyph/
+ligature handling for the various scripts.
