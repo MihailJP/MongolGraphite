@@ -12,9 +12,9 @@ copy README MongolianGraphiteFont
 copy LICENSE MongolianGraphiteFont
 copy ChangeLog MongolianGraphiteFont
 
-%GrCompiler% -w3532 mnglwhiteotf.ttf mongolian.gdl MongolianGraphiteFont\mnglwhitegr.ttf "Mongolian White G"
-%GrCompiler% -w3532 mnglwritingotf.ttf mongolian.gdl MongolianGraphiteFont\mnglwritinggr.ttf "Mongolian Writing G"
-%GrCompiler% -w3532 mnglartotf.ttf mongolian.gdl MongolianGraphiteFont\mnglartgr.ttf "Mongolian Art G"
-%GrCompiler% -w3532 mngltitleotf.ttf mongolian.gdl MongolianGraphiteFont\mngltitlegr.ttf "Mongolian Title G"
+%GrCompiler% mnglwhiteotf.ttf mongolian.gdl MongolianGraphiteFont\mnglwhitegr.ttf "Mongolian White G"
+%GrCompiler% mnglwritingotf.ttf mongolian.gdl MongolianGraphiteFont\mnglwritinggr.ttf "Mongolian Writing G"
+%GrCompiler% mnglartotf.ttf mongolian.gdl MongolianGraphiteFont\mnglartgr.ttf "Mongolian Art G"
+%GrCompiler% mngltitleotf.ttf mongolian.gdl MongolianGraphiteFont\mngltitlegr.ttf "Mongolian Title G"
 
 %Archiver% a -mx=9 MongolianGraphiteFont.zip MongolianGraphiteFont
